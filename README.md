@@ -1,4 +1,4 @@
-# DeepSeek R1 满血版免费使用指南：支持 DeepSeek R1、V3 和 ChatGPT 4o、o1、o3~ 【2025/02/11】  
+# DeepSeek R1 满血版免费使用指南：支持 DeepSeek R1、V3 和 ChatGPT 4o、o1、o3~ 【2025/02/11】 
 
 轻松使用 **DeepSeek R1 满血版**，**快速稳定**，**支持 DeepSeek R1、V3 以及 ChatGPT 4o、o1、o3 多种功能**。   
 本指南提供全面的 **DeepSeek 满血版使用说明**，帮助您顺畅使用 DeepSeek 和 ChatGPT。
@@ -31,15 +31,16 @@
 
 以下是我们精选的国内快速稳定的 **DeepSeek R1 满血版网站**，助您轻松上手：
 
-- **一下AI** ([www.yixiaai.com](https://www.yixiaai.com/))  
-  - **DeepSeek 满血版**  
-  - 支持 DeepSeek R1、V3 及 ChatGPT（GPT-4o、o1、o3）  
-  - 快速稳定，扫码即可使用
 
 - **AI智慧岛** ([chat.lify.vip](https://chat.lify.vip/))  
-  - **AI大模型**  
+  - **DeepSeek R1 满血版**  
   - 支持 DeepSeek、ChatGPT 及 Claude 等顶级模型  
   - 提供 AI 文件、AI PPT、AI助手、AI插件及思维导图等功能
+
+- **一下AI** ([www.yixiaai.com](https://www.yixiaai.com/))  
+  - **AI大模型**  
+  - 支持 DeepSeek R1、V3 及 ChatGPT（GPT-4o、o1、o3）  
+  - 快速稳定，扫码即可使用
 
 - **AI工具站** ([yixiaai.cn](https://yixiaai.cn))  
   - **全方位AI工具**  
