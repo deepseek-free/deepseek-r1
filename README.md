@@ -39,7 +39,7 @@
   - 支持 DeepSeek、ChatGPT 及 Claude 等顶级模型  
   - 提供 AI 文件、AI PPT、AI助手、AI插件及思维导图等功能
     
-- **蓝鲸AI：**[chat.lanjing.ai](https://chat.lanjing.ai/)
+- **蓝鲸AI：**[chat.lanjing.pro](https://chat.lanjing.pro/)
   - **AI大模型**  
   - 支持 DeepSeek R1、V3 及 ChatGPT（GPT-4o、o1、o3）、Claude、Grok  
   - 快速稳定，国内注册使用
