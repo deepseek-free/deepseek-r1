@@ -1,6 +1,6 @@
 # DeepSeek R1 满血用指南：支持 DeepSeek R1、V3 和 ChatGPT 4o、o1、o3~ 【2025年5月更新】
 
-> 更新时间：2025-05-06        
+> 更新时间：2025-05-08        
 
 轻松使用 **DeepSeek R1 满血版**，**快速稳定**，**支持 DeepSeek R1、V3 以及 ChatGPT 4o、o1、o3 多种功能**。   
 本指南提供全面的 **DeepSeek 满血版使用说明**，帮助您顺畅使用 DeepSeek 和 ChatGPT。
