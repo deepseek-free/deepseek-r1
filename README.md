@@ -1,6 +1,6 @@
 # DeepSeek R1 满血用指南：支持 DeepSeek R1、V3 和 ChatGPT 4o、o1、o3~ 【2025年6月更新】
 
-> 更新时间：2025-06-05        
+> 更新时间：2025-06-12        
 
 轻松使用 **DeepSeek R1 满血版**，**快速稳定**，**支持 DeepSeek R1、V3 以及 ChatGPT 4o、o1、o3 多种功能**。   
 本指南提供全面的 **DeepSeek 满血版使用说明**，帮助您顺畅使用 DeepSeek 和 ChatGPT。
@@ -39,7 +39,7 @@
   - 支持 DeepSeek、ChatGPT 及 Claude 等顶级模型  
   - 提供 AI 文件、AI PPT、AI助手、AI插件及思维导图等功能
     
-- **蓝鲸AI：**[chat.lanjing.pro](https://chat.lanjing.pro/)
+- **蓝鲸AI：**[chat.lanjingai.org](https://chat.lanjingai.org/)
   - **AI大模型**  
   - 支持 DeepSeek R1、V3 及 ChatGPT（GPT-4o、o1、o3）、Claude、Grok  
   - 快速稳定，国内注册使用
