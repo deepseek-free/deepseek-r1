@@ -1,8 +1,8 @@
 # DeepSeek R1 满血用指南：支持 DeepSeek R1、V3 和 ChatGPT 4o、o1、o3~ 【2025年6月更新】
 
-> 更新时间：2025-06-18        
+> 更新时间：2025-06-20        
 
-轻松使用 **DeepSeek R1 满血版**，**快速稳定**，**支持 DeepSeek R1、V3 以及 ChatGPT 4o、o1、o3 多种功能**。   
+轻松使用 [**DeepSeek R1 满血版**](https://chat.lanjingai.org)，**快速稳定**，**支持 DeepSeek R1、V3 以及 ChatGPT 4o、o1、o3 多种功能**。   
 本指南提供全面的 **DeepSeek 满血版使用说明**，帮助您顺畅使用 DeepSeek 和 ChatGPT。
 
 ---
@@ -21,7 +21,7 @@
 
 ## 什么是 DeepSeek R1 满血版？
 
-**DeepSeek R1 满血版**是 DeepSeek 开发的 R1 模型的最强版本，具备671B参数，媲美「ChatGPT」的卓越 AI 能力，提供流畅、精准的 AI 对话体验。
+[**DeepSeek R1 满血版**](https://chat.lanjingai.org) 是 DeepSeek 开发的 R1 模型的最强版本，具备671B参数，媲美「ChatGPT」的卓越 AI 能力，提供流畅、精准的 AI 对话体验。
 
 - **快速稳定**：通过结合“官网+云API+本地”模式，提供快速稳定的服务。
 - **推理能力强**：在复杂推理、数学推理和深度逻辑推理方面表现卓越。
@@ -44,7 +44,7 @@
   - 支持 DeepSeek R1、V3 及 ChatGPT（GPT-4o、o1、o3）、Claude、Grok  
   - 快速稳定，国内注册使用
     
-- **一下AI** ([www.yixiaai.com](https://www.yixiaai.com/))  
+- **极简AI** ([xsimplechat.com](https://xsimplechat.com/))  
   - **AI大模型**  
   - 支持 DeepSeek R1、V3 及 ChatGPT（GPT-4o、o1、o3）  
   - 快速稳定，扫码即可使用
@@ -53,7 +53,7 @@
   - **全方位AI工具**  
   - 汇集各种实用AI工具，应有尽有
 
-- **鲸鱼AI** ([lanjing.ai](https://lanjing.ai/))  
+- **鲸鱼AI** ([lanjing.ai](https://lanjing.pro/))  
   - **ChatGPT中文版镜像网站**  
   - 支持 GPT-4o、o1，适合新手使用
   
@@ -85,7 +85,7 @@
 
 ## 如何使用 DeepSeek R1 满血版？
 
-1. **选择网站**：访问推荐的网站（如: **一下AI([chat.deepseek-free.org](https://chat.yixiaai.com))** ）。
+1. **选择网站**：访问推荐的网站（如: **一下AI([chat.deepseek-free.org](https://chat.lanjingai.org))** ）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 DeepSeek-R1 或 DeepSeek-V3 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
